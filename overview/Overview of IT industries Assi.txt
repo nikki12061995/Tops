@@ -1,0 +1,87 @@
+1. What is software? What is software engineering?
+
+Ans:- Software is more than just a program is an executable code,which serves some computational purpose.Software is considered to be a collection of executable programming code, 
+associated libraries and documentations.Software, when made for a specific requirement is called software product.
+
+--> Engineering on the other hand, is all about developing products,using well-defined,scientific principles and methods.
+
+
+
+
+2. Explain types of software
+
+Ans:- 1. Application software
+      2. System software
+      3. Driver software
+      4. Middleware
+      5. Programming software
+
+
+
+
+3. What is SDLC? Explain each phase of SDLC
+ 
+Ans:- Software Development Life Cycle (SDLC) is a framework that defines the steps involved in the development of software at each phase. It covers the detailed plan for building, deploying and maintaining the software.
+
+    PHASES OF SDLC:-
+
+   1. Requirement gathering & Analysis
+      During this phase, all the relevant information is collected from the customer to develop a product as per their expectation. Any ambiguities must be resolved in this phase only.
+
+Business analyst and Project Manager set up a meeting with the customer to gather all the information like what the customer wants to build, who will be the end-user, what is the purpose of the product. Before building a product a core understanding or knowledge of the product is very important.
+
+
+  2. Designing
+     In this phase, the requirement gathered in the SRS document is used as an input and software architecture that is used for implementing system development is derived.
+            
+
+  3. Implementation & Coding
+      Implementation/Coding starts once the developer gets the Design document. The Software design is translated into source code. All the components of the software are implemented in this phase.      
+  
+  
+ 4. Testing
+      Testing starts once the coding is complete and the modules are released for testing. In this phase, the developed software is tested thoroughly and any defects found are assigned to developers to get them fixed.
+
+Retesting, regression testing is done until the point at which the software is as per the customer’s expectation. Testers refer SRS document to make sure that the software is as per the customer’s standard.      
+
+ 
+ 5. Deployment
+       Once the product is tested, it is deployed in the production environment or first UAT (User Acceptance testing) is done depending on the customer expectation.
+
+In the case of UAT, a replica of the production environment is created and the customer along with the developers does the testing. If the customer finds the application as expected, then sign off is provided by the customer to go live.     
+
+  
+ 6. Maintenance
+      After the deployment of a product on the production environment, maintenance of the product i.e. if any issue comes up and needs to be fixed or any enhancement is to be done is taken care by the developers.
+
+
+4. What is DFD? Create a DFD diagram on Flipkart
+
+--> A data-flow diagram is a way of representing a flow of data through a process or a system.The DFD also provides information about the outputs and inputs of each entity and the process itself.
+ A data-flow diagram has no control flow — there are no decision rules and no loops. Specific operations based on the data can be represented by a flowchart.
+
+
+
+
+
+
+
+5. What is Flow chart? Create a flowchart to make addition of two numbers
+
+--> A flowchart is a diagram that depicts a process, system or computer algorithm.They are widely used in multiple
+fields to document,study,plan,improve and communicate often complex processes in clear,easy-to-understand diagrams.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
